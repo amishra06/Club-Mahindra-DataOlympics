@@ -7,8 +7,7 @@ spend of customers per room per night stay at the hotel against the booking. A w
 provided which includes booking_date, checkin_date, checkout_date etc. 
 
 ## My Approach
- 1. Used fastai tabular learner function for modelling and training
- 2. Used discriminative learning rate during training.
+ 1. Used fastai tabular learner function for modelling and training.
 
 ## Result
  * Pulic Leaderboard - 97.5294587080
